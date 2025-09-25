@@ -1,0 +1,49 @@
+{
+  "term": "Fall",
+  "year": "2001",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Humanities",
+      "Linguistics"
+    ],
+    [
+      "Science",
+      "Cognitive Science"
+    ]
+  ],
+  "legacy_uid": "1e05c52f-bf12-2989-1dae-a26a0e6ffdce",
+  "instructors": {
+    "content": [
+      "bb720a43-a6bc-18f6-1ba7-d6b4459cca00"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "0373ffb0-51c3-3345-41c1-82d76eae0791",
+    "website": "9-57j-language-acquisition-fall-2001"
+  },
+  "course_title": "Language Acquisition",
+  "hide_download": true,
+  "course_description": "Covers the major results in the study of first language acquisition concentrating on the development of linguistic structure, including sentence structure and morphology. Universal aspects of development are discussed, as well as a variety of cross-linguistic phenomena. Theories of language learning are considered, including parameter-setting and maturation.\n",
+  "department_numbers": [
+    "9",
+    "24"
+  ],
+  "extra_course_numbers": "24.904J",
+  "primary_course_number": "9.57J",
+  "course_image_thumbnail": {
+    "content": "a9de2815-9fd5-0c46-2bd8-99e62b2763ec",
+    "website": "9-57j-language-acquisition-fall-2001"
+  },
+  "hide_download_original": true,
+  "learning_resource_types": [
+    "Problem Sets with Solutions"
+  ],
+  "site_uid": "da2129a2-eb87-4a6f-b69a-91e112ffa0f7",
+  "site_short_id": "9.57j-fall-2001",
+  "site_url_path": "courses/9-57j-language-acquisition-fall-2001",
+  "title": "Course Metadata"
+}
