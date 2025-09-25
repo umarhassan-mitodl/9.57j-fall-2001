@@ -4,6 +4,8 @@ description: Solutions to a problem set on language learning.
 file: /courses/9-57j-language-acquisition-fall-2001/a03203f1f56d2adc9f8543a45a77ed8a_ProblemSet1Answers.pdf
 file_size: 124188
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

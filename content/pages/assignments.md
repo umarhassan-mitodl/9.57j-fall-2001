@@ -3,6 +3,8 @@ content_type: page
 description: This section contains some examples of problem sets and answers. The
   problem sets range from language learning to sentence structure across different
   languages.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

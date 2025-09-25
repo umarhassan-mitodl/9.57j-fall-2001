@@ -4,6 +4,8 @@ description: Problem set on sentence tree structures across languages
 file: /courses/9-57j-language-acquisition-fall-2001/9a4ee9bf09e998559470b693e1cf656c_problemset2.pdf
 file_size: 44008
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

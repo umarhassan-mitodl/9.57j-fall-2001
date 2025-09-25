@@ -26,6 +26,7 @@
     "website": "9-57j-language-acquisition-fall-2001"
   },
   "course_title": "Language Acquisition",
+  "hide_download": true,
   "course_description": "Covers the major results in the study of first language acquisition concentrating on the development of linguistic structure, including sentence structure and morphology. Universal aspects of development are discussed, as well as a variety of cross-linguistic phenomena. Theories of language learning are considered, including parameter-setting and maturation.\n",
   "department_numbers": [
     "9",
@@ -37,6 +38,7 @@
     "content": "a9de2815-9fd5-0c46-2bd8-99e62b2763ec",
     "website": "9-57j-language-acquisition-fall-2001"
   },
+  "hide_download_original": true,
   "learning_resource_types": [
     "Problem Sets with Solutions"
   ],

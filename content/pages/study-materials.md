@@ -2,6 +2,8 @@
 content_type: page
 description: These notes provide a comprehensive review of the course content, in
   order to facilitate studying for both the midterm and final exams.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Study Materials

@@ -5,6 +5,8 @@ description: A sample stimulus item from an experiment testing children's knowle
 file: /courses/9-57j-language-acquisition-fall-2001/4e90f0a5de7e5309bce1f2c1173a3e27_chp_9_57_goldilocks_II.jpg
 file_size: 71815
 file_type: image/jpeg
+hide_download: true
+hide_download_original: null
 image_metadata:
   caption: ''
   credit: ''
